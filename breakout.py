@@ -1,4 +1,4 @@
-from pygame import * 
+import pygame
 from pygame import mixer
 import json
 from pygame.locals import *
